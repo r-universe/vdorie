@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bartCause",
+    "oncran": true
+  },
+  {
+    "package": "blme",
+    "oncran": true
+  },
+  {
+    "package": "dbarts",
+    "oncran": true
+  },
+  {
+    "package": "stan4bart",
+    "oncran": true
+  }
+]
