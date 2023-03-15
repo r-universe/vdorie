@@ -1,5 +1,9 @@
 [
   {
+    "package": "stan4bart",
+    "oncran": true
+  },
+  {
     "package": "bartCause",
     "oncran": true
   },
@@ -9,10 +13,6 @@
   },
   {
     "package": "dbarts",
-    "oncran": true
-  },
-  {
-    "package": "stan4bart",
     "oncran": true
   }
 ]

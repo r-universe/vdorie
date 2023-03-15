@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "stan4bart"]
+	path = stan4bart
+	url = https://github.com/vdorie/stan4bart
+	shallow = true
+	registered = true
 [submodule "bartCause"]
 	path = bartCause
 	url = https://github.com/vdorie/bartcause
@@ -16,10 +21,5 @@
 [submodule "dbarts"]
 	path = dbarts
 	url = https://github.com/vdorie/dbarts
-	shallow = true
-	registered = true
-[submodule "stan4bart"]
-	path = stan4bart
-	url = https://github.com/vdorie/stan4bart
 	shallow = true
 	registered = true
